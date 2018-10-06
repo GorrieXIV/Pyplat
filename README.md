@@ -8,7 +8,7 @@ Pyplat is an in-house, pygame-based, 2D platformer with a linearly progressing s
 ### Setting Up
   * Fork this repository by clicking the "Fork" button in the top right-hand corner.
   * Clone your fork: `git clone https://github.com/<YOUR_GITHUB_USERNAME>/Pyplat.git`
-  * Setup upstream repo as remote: `git remote add upstream https://github.com/GorrieXIV/Pyplat.git`
+  * Setup upstream repo as remote: `git remote add upstream https://github.com/ArkellTechInc/Pyplat.git`
 
 ### Adding Features/Bug Fixes
   * When you begin development on a new feature, first create a branch on your fork:
