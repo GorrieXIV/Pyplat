@@ -16,17 +16,23 @@
 
 # Sprint Breakdown
 
-#### Sprint 1
+## Sprint 1
+### Kurtis
+- install python, pygame, git, a hello world
 - write tutorial for setup/documentation guidelines
-- install python, pygame, git, a hello world (EVERYONE)
 - Initial asset placeholder creation
+### Rob
+- install python, pygame, git, a hello world
 - Project setup, folders, files, git, architecture
+- 1/2 - protagonist/antagonist/enemies/hazards, their mechanics, and a single setting
 - protagonist/antagonist/enemies/hazards, their mechanics, and a single setting
-- win/lose condition
-- 
-#### Sprint 2
-#### Sprint 3
-#### Sprint 4
-#### Sprint 5
-#### Sprint 6
+### Jack
+- install python, pygame, git, a hello world
+- win/lose condition (story?)
+- 1/2 - protagonist/antagonist/enemies/hazards, their mechanics, and a single setting
+## Sprint 2
+## Sprint 3
+## Sprint 4
+## Sprint 5
+## Sprint 6
 
