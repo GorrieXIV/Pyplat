@@ -25,7 +25,6 @@
 - install python, pygame, git, a hello world
 - Project setup, folders, files, git, architecture
 - 1/2 - protagonist/antagonist/enemies/hazards, their mechanics, and a single setting
-- protagonist/antagonist/enemies/hazards, their mechanics, and a single setting
 ### Jack
 - install python, pygame, git, a hello world
 - win/lose condition (story?)
