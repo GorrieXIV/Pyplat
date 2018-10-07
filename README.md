@@ -32,6 +32,7 @@ Pyplat is an in-house, pygame-based, 2D platformer with a linearly progressing s
     * Once reviewed (and after edits, if necessary,) the pull request will be merged into master
 
 ### Getting updates from the upstream repo
+  * `git checkout master`
   * `git fetch upstream`
   * `git merge upstream`
 
