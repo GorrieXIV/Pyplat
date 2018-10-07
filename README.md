@@ -34,7 +34,8 @@ Pyplat is an in-house, pygame-based, 2D platformer with a linearly progressing s
 ### Getting updates from the upstream repo
   * `git checkout master`
   * `git fetch upstream`
-  * `git merge upstream`
+  * `git merge upstream/master master`
+    * Consider pushing those updates to your fork online: `git push`
 
 ## Team
   * Rob Gorrie - <role>
