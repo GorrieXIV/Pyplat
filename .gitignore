@@ -1,0 +1,7 @@
+# generated files
+*~
+
+# tex files
+*.tex
+*.aux
+*.log
